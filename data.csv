@@ -1,29 +1,29 @@
 screen,feature_id,feature_name,component,group_id,group_label,zone_x,zone_y,zone_w,zone_h,month,users,events
-home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.2,72,3.2,Dic 2025,1366,17688
-home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.2,72,3.2,Ene 2026,1407,19249
-home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.2,72,3.2,Feb 2026,1369,18792
-home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.2,72,3.2,Mar 2026,1435,21603
-home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.2,72,3.2,Abr 2026,1399,21229
-home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.4,75.6,10.7,Dic 2025,3578,16156
-home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.4,75.6,10.7,Ene 2026,3527,16830
-home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.4,75.6,10.7,Feb 2026,3568,16164
-home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.4,75.6,10.7,Mar 2026,3703,18674
-home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.4,75.6,10.7,Abr 2026,3805,18411
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Dic 2025,1366,17688
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Ene 2026,1407,19249
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Feb 2026,1369,18792
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Mar 2026,1435,21603
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Abr 2026,1399,21229
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Dic 2025,3578,16156
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Ene 2026,3527,16830
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Feb 2026,3568,16164
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Mar 2026,3703,18674
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Abr 2026,3805,18411
 home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Dic 2025,1014,3452
 home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Ene 2026,988,3410
 home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Feb 2026,969,3722
 home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Mar 2026,984,3958
 home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Abr 2026,1017,3981
-home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,15.5,66.7,2.5,Dic 2025,1743,3137
-home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,15.5,66.7,2.5,Ene 2026,1793,3348
-home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,15.5,66.7,2.5,Feb 2026,1742,3123
-home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,15.5,66.7,2.5,Mar 2026,1866,3564
-home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,15.5,66.7,2.5,Abr 2026,1932,3439
-home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.5,Dic 2025,649,1625
-home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.5,Ene 2026,634,1607
-home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.5,Feb 2026,593,1564
-home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.5,Mar 2026,603,1451
-home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.5,Abr 2026,591,1652
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Dic 2025,1743,3137
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Ene 2026,1793,3348
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Feb 2026,1742,3123
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Mar 2026,1866,3564
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Abr 2026,1932,3439
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Dic 2025,649,1625
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Ene 2026,634,1607
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Feb 2026,593,1564
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Mar 2026,603,1451
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Abr 2026,591,1652
 home,mostrar_saldo,Mostrar saldo,Cuentas,cuentas,Cuentas,,,,,Dic 2025,594,1515
 home,mostrar_saldo,Mostrar saldo,Cuentas,cuentas,Cuentas,,,,,Ene 2026,578,1502
 home,mostrar_saldo,Mostrar saldo,Cuentas,cuentas,Cuentas,,,,,Feb 2026,562,1511
@@ -34,21 +34,21 @@ home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,Ene 2026,27,120
 home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,Feb 2026,23,93
 home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,Mar 2026,18,105
 home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,Abr 2026,24,140
-home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,20.8,17.8,5.8,Dic 2025,5258,53799
-home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,20.8,17.8,5.8,Ene 2026,5191,51149
-home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,20.8,17.8,5.8,Feb 2026,5317,49111
-home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,20.8,17.8,5.8,Mar 2026,5286,55265
-home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,20.8,17.8,5.8,Abr 2026,5359,55520
-home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,20.8,17.8,5.8,Dic 2025,1922,6310
-home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,20.8,17.8,5.8,Ene 2026,2148,7066
-home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,20.8,17.8,5.8,Feb 2026,2128,7504
-home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,20.8,17.8,5.8,Mar 2026,2190,7814
-home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,20.8,17.8,5.8,Abr 2026,2176,7832
-home,qa_token,Token,Quick Access,qa,Quick Access,52.8,20.8,17.8,5.8,Dic 2025,3506,22059
-home,qa_token,Token,Quick Access,qa,Quick Access,52.8,20.8,17.8,5.8,Ene 2026,3194,18401
-home,qa_token,Token,Quick Access,qa,Quick Access,52.8,20.8,17.8,5.8,Feb 2026,3049,16996
-home,qa_token,Token,Quick Access,qa,Quick Access,52.8,20.8,17.8,5.8,Mar 2026,3116,18857
-home,qa_token,Token,Quick Access,qa,Quick Access,52.8,20.8,17.8,5.8,Abr 2026,2952,17559
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Dic 2025,5258,53799
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Ene 2026,5191,51149
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Feb 2026,5317,49111
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Mar 2026,5286,55265
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Abr 2026,5359,55520
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Dic 2025,1922,6310
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Ene 2026,2148,7066
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Feb 2026,2128,7504
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Mar 2026,2190,7814
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Abr 2026,2176,7832
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Dic 2025,3506,22059
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Ene 2026,3194,18401
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Feb 2026,3049,16996
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Mar 2026,3116,18857
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Abr 2026,2952,17559
 home,qa_echeq,Echeq (QA),Quick Access,qa,Quick Access,,,,,Dic 2025,667,2174
 home,qa_echeq,Echeq (QA),Quick Access,qa,Quick Access,,,,,Ene 2026,750,2507
 home,qa_echeq,Echeq (QA),Quick Access,qa,Quick Access,,,,,Feb 2026,749,2772
@@ -59,51 +59,66 @@ home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,Ene 2026,24
 home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,Feb 2026,218,365
 home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,Mar 2026,225,323
 home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,Abr 2026,201,339
-home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,20.8,17.8,5.8,Dic 2025,3140,7481
-home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,20.8,17.8,5.8,Ene 2026,3247,7882
-home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,20.8,17.8,5.8,Feb 2026,3163,7993
-home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,20.8,17.8,5.8,Mar 2026,3169,8528
-home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,20.8,17.8,5.8,Abr 2026,3124,8833
-home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,29.8,86.7,6.7,Dic 2025,3413,15775
-home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,29.8,86.7,6.7,Ene 2026,3479,17152
-home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,29.8,86.7,6.7,Feb 2026,3585,18011
-home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,29.8,86.7,6.7,Mar 2026,3789,21655
-home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,29.8,86.7,6.7,Abr 2026,3923,23462
-home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,40.5,86.7,7.6,Dic 2025,693,1687
-home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,40.5,86.7,7.6,Ene 2026,693,1687
-home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,40.5,86.7,7.6,Feb 2026,693,1687
-home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,40.5,86.7,7.6,Mar 2026,693,1687
-home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,40.5,86.7,7.6,Abr 2026,693,1687
-home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,51.6,86.7,28.8,Dic 2025,1798,5125
-home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,51.6,86.7,28.8,Ene 2026,1836,5150
-home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,51.6,86.7,28.8,Feb 2026,1833,5239
-home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,51.6,86.7,28.8,Mar 2026,1939,5484
-home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,51.6,86.7,28.8,Abr 2026,1898,5391
-home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,81.7,77.5,3.3,Dic 2025,3044,11831
-home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,81.7,77.5,3.3,Ene 2026,3129,12433
-home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,81.7,77.5,3.3,Feb 2026,3074,11868
-home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,81.7,77.5,3.3,Mar 2026,3088,12819
-home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,81.7,77.5,3.3,Abr 2026,3163,12828
-home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.1,25,4.9,Dic 2025,203,237
-home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.1,25,4.9,Ene 2026,222,278
-home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.1,25,4.9,Feb 2026,228,303
-home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.1,25,4.9,Mar 2026,214,281
-home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.1,25,4.9,Abr 2026,189,266
-home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.1,25,4.9,Dic 2025,1832,3333
-home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.1,25,4.9,Ene 2026,1942,3264
-home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.1,25,4.9,Feb 2026,1812,3126
-home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.1,25,4.9,Mar 2026,1861,3222
-home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.1,25,4.9,Abr 2026,1745,3083
-home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.1,25,4.9,Dic 2025,1603,3168
-home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.1,25,4.9,Ene 2026,1484,3150
-home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.1,25,4.9,Feb 2026,1443,3023
-home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.1,25,4.9,Mar 2026,1446,3450
-home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.1,25,4.9,Abr 2026,1553,3386
-home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.1,25,4.9,Dic 2025,6774,37017
-home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.1,25,4.9,Ene 2026,6821,38014
-home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.1,25,4.9,Feb 2026,6631,36549
-home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.1,25,4.9,Mar 2026,6771,39287
-home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.1,25,4.9,Abr 2026,6545,39432
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Dic 2025,3140,7481
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Ene 2026,3247,7882
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Feb 2026,3163,7993
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Mar 2026,3169,8528
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Abr 2026,3124,8833
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Dic 2025,3413,15775
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Ene 2026,3479,17152
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Feb 2026,3585,18011
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Mar 2026,3789,21655
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Abr 2026,3923,23462
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Dic 2025,693,1687
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Ene 2026,693,1687
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Feb 2026,693,1687
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Mar 2026,693,1687
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Abr 2026,693,1687
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Dic 2025,1798,5125
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Ene 2026,1836,5150
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Feb 2026,1833,5239
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Mar 2026,1939,5484
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Abr 2026,1898,5391
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Dic 2025,3044,11831
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Ene 2026,3129,12433
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Feb 2026,3074,11868
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Mar 2026,3088,12819
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Abr 2026,3163,12828
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Dic 2025,203,237
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Ene 2026,222,278
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Feb 2026,228,303
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Mar 2026,214,281
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Abr 2026,189,266
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Dic 2025,1832,3333
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Ene 2026,1942,3264
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Feb 2026,1812,3126
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Mar 2026,1861,3222
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Abr 2026,1745,3083
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Dic 2025,1603,3168
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Ene 2026,1484,3150
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Feb 2026,1443,3023
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Mar 2026,1446,3450
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Abr 2026,1553,3386
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Dic 2025,6774,37017
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Ene 2026,6821,38014
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Feb 2026,6631,36549
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Mar 2026,6771,39287
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Abr 2026,6545,39432
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Dic 2025,673,874
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Ene 2026,664,858
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Feb 2026,650,819
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Mar 2026,682,883
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Abr 2026,686,906
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Dic 2025,49,55
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Ene 2026,61,81
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Feb 2026,57,65
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Mar 2026,52,63
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Abr 2026,59,81
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Dic 2025,50,63
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Ene 2026,47,53
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Feb 2026,50,57
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Mar 2026,58,63
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Abr 2026,62,80
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Dic 2025,1413,2745
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Ene 2026,1199,2510
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Feb 2026,1225,2362
@@ -169,3 +184,32 @@ menu,mn_menu,Menú (Nav),Nav Bar,menu_nav,Nav Bar,75,92.9,25,7.1,Ene 2026,6821,3
 menu,mn_menu,Menú (Nav),Nav Bar,menu_nav,Nav Bar,75,92.9,25,7.1,Feb 2026,6631,36549
 menu,mn_menu,Menú (Nav),Nav Bar,menu_nav,Nav Bar,75,92.9,25,7.1,Mar 2026,6771,39287
 menu,mn_menu,Menú (Nav),Nav Bar,menu_nav,Nav Bar,75,92.9,25,7.1,Abr 2026,6545,39432
+home,banner_1,Activá tu Token,Recomendaciones,banners,Banners,,,,,Abr 2026,79,213
+home,banner_1,Activá tu Token,Recomendaciones,banners,Banners,,,,,Feb 2026,93,244
+home,banner_1,Activá tu Token,Recomendaciones,banners,Banners,,,,,Mar 2026,60,129
+home,banner_1,Activá tu Token,Recomendaciones,banners,Banners,,,,,Ene 2026,117,290
+home,banner_1,Activá tu Token,Recomendaciones,banners,Banners,,,,,Dic 2025,103,270
+home,banner_2,Potenciá tu capital 🚀,Recomendaciones,banners,Banners,,,,,Abr 2026,29,38
+home,banner_2,Potenciá tu capital 🚀,Recomendaciones,banners,Banners,,,,,Mar 2026,81,98
+home,banner_3,"Tu Plazo Fijo, como lo necesitás.",Recomendaciones,banners,Banners,,,,,Abr 2026,77,105
+home,banner_4,Con Echeqs es más fácil 😉,Recomendaciones,banners,Banners,,,,,Abr 2026,66,83
+home,banner_5,¿Tenés Echeqs para cobrar?,Recomendaciones,banners,Banners,,,,,Abr 2026,7,7
+home,banner_5,¿Tenés Echeqs para cobrar?,Recomendaciones,banners,Banners,,,,,Mar 2026,41,49
+home,banner_6,Gestioná el pago de servicios de tu PyME ✅,Recomendaciones,banners,Banners,,,,,Feb 2026,39,48
+home,banner_7,Facilitamos la gestión de tu PYME 📈,Recomendaciones,banners,Banners,,,,,Feb 2026,29,36
+home,banner_8,Convertí tus ahorros en inversiones 🔔,Recomendaciones,banners,Banners,,,,,Abr 2026,2,14
+home,banner_8,Convertí tus ahorros en inversiones 🔔,Recomendaciones,banners,Banners,,,,,Mar 2026,4,4
+home,banner_9,🔔 Pagá tus servicios en minutos,Recomendaciones,banners,Banners,,,,,Abr 2026,5,5
+home,banner_9,🔔 Pagá tus servicios en minutos,Recomendaciones,banners,Banners,,,,,Mar 2026,8,10
+home,banner_10,Hacé rendir tu capital con Plazo Fijo 📈,Recomendaciones,banners,Banners,,,,,Feb 2026,9,10
+home,banner_11,Emití Echeqs de forma simple 🧾,Recomendaciones,banners,Banners,,,,,Feb 2026,5,7
+home,banner_12,Potenciá el capital de tu PyME,Recomendaciones,banners,Banners,,,,,Abr 2026,6,6
+home,banner_13,Depositá tus Echeqs ✅,Recomendaciones,banners,Banners,,,,,Abr 2026,1,1
+home,banner_13,Depositá tus Echeqs ✅,Recomendaciones,banners,Banners,,,,,Mar 2026,3,3
+home,banner_14,Más rendimiento para tu PyME,Recomendaciones,banners,Banners,,,,,Feb 2026,2,4
+home,banner_15,Pagá tus servicios de forma segura 📈,Recomendaciones,banners,Banners,,,,,Feb 2026,1,4
+home,banner_16,Transferencias Masivas,Recomendaciones,banners,Banners,,,,,Abr 2026,3,3
+home,banner_17,Centralizá transferencias sin demoras ⚡,Recomendaciones,banners,Banners,,,,,Feb 2026,2,2
+home,banner_18,Depositá Echeqs y gestioná tus cobros 💰,Recomendaciones,banners,Banners,,,,,Feb 2026,2,2
+home,banner_19,Administrá Echeqs de forma segura 🛡️,Recomendaciones,banners,Banners,,,,,Feb 2026,1,1
+home,banner_20,Optimizá el pago de servicios de tu empresa 📈,Recomendaciones,banners,Banners,,,,,Feb 2026,1,1
