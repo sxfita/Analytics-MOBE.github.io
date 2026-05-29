@@ -476,8 +476,23 @@ function parseCSV(text) {
   var header = lines[0].split(',');
   var rows = [];
   for (var i = 1; i < lines.length; i++) {
-    // Handle quoted fields with commas (basic CSV)
-    var vals = lines[i].split(',');
+    var line = lines[i];
+    var vals = [];
+    var cur = '';
+    var inQuote = false;
+    for (var c = 0; c < line.length; c++) {
+      var ch = line[c];
+      if (inQuote) {
+        if (ch === '"') inQuote = false; else cur += ch;
+      } else if (ch === '"') {
+        inQuote = true;
+      } else if (ch === ',') {
+        vals.push(cur); cur = '';
+      } else {
+        cur += ch;
+      }
+    }
+    vals.push(cur);
     if (vals.length < header.length) continue;
     var row = {};
     header.forEach(function(h, j) { row[h.trim()] = (vals[j] || '').trim(); });
@@ -674,6 +689,20 @@ function runApp() {
 
     document.getElementById('phone-title').textContent = getScreen().label;
     document.getElementById('phone-meta').textContent = visible.length + ' features \u00b7 ' + state.period;
+
+    if (state.group !== 'all') {
+      var firstZone = inner.querySelector('.zone:not(.dimmed)');
+      if (firstZone) {
+        var phone = document.getElementById('phone');
+        var zt = firstZone.offsetTop;
+        var zh = firstZone.offsetHeight;
+        var ph = phone.clientHeight;
+        var target = zt - (ph - zh) / 2;
+        setTimeout(function() { phone.scrollTo({ top: Math.max(0, target), behavior: 'smooth' }); }, 50);
+      }
+    } else {
+      document.getElementById('phone').scrollTo({ top: 0, behavior: 'smooth' });
+    }
   }
 
   function sparkline(values, color, w, h) {
@@ -958,6 +987,8 @@ function runApp() {
         var target = zt - (ph - zh) / 2;
         phone.scrollTo({ top: Math.max(0, target), behavior: 'smooth' });
       }
+      var row = document.querySelector('#rank-list .rank-row[data-fid="' + id + '"]');
+      if (row) row.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
   }
 
