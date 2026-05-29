@@ -139,26 +139,26 @@ menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Ene 2026,7
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Feb 2026,718,1149
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Mar 2026,737,1214
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Abr 2026,644,1026
-menu,m_token,Token,Menú,menu_seg,Seguridad,6.7,51.8,86.7,6.5,Dic 2025,2424,6719
-menu,m_token,Token,Menú,menu_seg,Seguridad,6.7,51.8,86.7,6.5,Ene 2026,2183,6124
-menu,m_token,Token,Menú,menu_seg,Seguridad,6.7,51.8,86.7,6.5,Feb 2026,2151,5623
-menu,m_token,Token,Menú,menu_seg,Seguridad,6.7,51.8,86.7,6.5,Mar 2026,2248,6030
-menu,m_token,Token,Menú,menu_seg,Seguridad,6.7,51.8,86.7,6.5,Abr 2026,2107,5801
-menu,m_seguridad,Seguridad,Menú,menu_seg,Seguridad,6.7,58.3,86.7,6.5,Dic 2025,575,822
-menu,m_seguridad,Seguridad,Menú,menu_seg,Seguridad,6.7,58.3,86.7,6.5,Ene 2026,588,888
-menu,m_seguridad,Seguridad,Menú,menu_seg,Seguridad,6.7,58.3,86.7,6.5,Feb 2026,526,745
-menu,m_seguridad,Seguridad,Menú,menu_seg,Seguridad,6.7,58.3,86.7,6.5,Mar 2026,575,865
-menu,m_seguridad,Seguridad,Menú,menu_seg,Seguridad,6.7,58.3,86.7,6.5,Abr 2026,533,780
-menu,m_atencion_virtual,Atención Virtual,Menú,menu_otros,Otros,6.7,64.7,86.7,4.5,Dic 2025,293,396
-menu,m_atencion_virtual,Atención Virtual,Menú,menu_otros,Otros,6.7,64.7,86.7,4.5,Ene 2026,291,400
-menu,m_atencion_virtual,Atención Virtual,Menú,menu_otros,Otros,6.7,64.7,86.7,4.5,Feb 2026,287,388
-menu,m_atencion_virtual,Atención Virtual,Menú,menu_otros,Otros,6.7,64.7,86.7,4.5,Mar 2026,297,404
-menu,m_atencion_virtual,Atención Virtual,Menú,menu_otros,Otros,6.7,64.7,86.7,4.5,Abr 2026,317,465
-menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_otros,Otros,6.7,77.4,86.7,4.5,Dic 2025,136,582
-menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_otros,Otros,6.7,77.4,86.7,4.5,Ene 2026,114,727
-menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_otros,Otros,6.7,77.4,86.7,4.5,Feb 2026,122,658
-menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_otros,Otros,6.7,77.4,86.7,4.5,Mar 2026,120,734
-menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_otros,Otros,6.7,77.4,86.7,4.5,Abr 2026,113,839
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Dic 2025,2424,6719
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Ene 2026,2183,6124
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Feb 2026,2151,5623
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Mar 2026,2248,6030
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Abr 2026,2107,5801
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Dic 2025,575,822
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Ene 2026,588,888
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Feb 2026,526,745
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Mar 2026,575,865
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Abr 2026,533,780
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Dic 2025,293,396
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Ene 2026,291,400
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Feb 2026,287,388
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Mar 2026,297,404
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Abr 2026,317,465
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Dic 2025,136,582
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Ene 2026,114,727
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Feb 2026,122,658
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Mar 2026,120,734
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Abr 2026,113,839
 menu,m_cerrar_sesion,Cerrar sesión,Menú,menu_otros,Otros,6.7,83.9,86.7,6.1,Dic 2025,3070,21359
 menu,m_cerrar_sesion,Cerrar sesión,Menú,menu_otros,Otros,6.7,83.9,86.7,6.1,Ene 2026,3120,22527
 menu,m_cerrar_sesion,Cerrar sesión,Menú,menu_otros,Otros,6.7,83.9,86.7,6.1,Feb 2026,3039,21601
