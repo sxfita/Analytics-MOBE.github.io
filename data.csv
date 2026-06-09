@@ -213,3 +213,43 @@ home,banner_17,Centralizá transferencias sin demoras ⚡,Recomendaciones,banner
 home,banner_18,Depositá Echeqs y gestioná tus cobros 💰,Recomendaciones,banners,Banners,,,,,Feb 2026,2,2
 home,banner_19,Administrá Echeqs de forma segura 🛡️,Recomendaciones,banners,Banners,,,,,Feb 2026,1,1
 home,banner_20,Optimizá el pago de servicios de tu empresa 📈,Recomendaciones,banners,Banners,,,,,Feb 2026,1,1
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,May 2026,5345,59416
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,May 2026,2937,16690
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,May 2026,3283,9444
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,May 2026,2255,8462
+home,qa_echeq,Echeq (QA),Quick Access,qa,Quick Access,,,,,May 2026,824,3890
+home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,May 2026,189,283
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,May 2026,6590,38374
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,May 2026,1556,3739
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,May 2026,1843,3176
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,May 2026,197,239
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,May 2026,3782,18731
+home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,May 2026,1027,4252
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,May 2026,1783,3171
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,May 2026,599,1513
+home,mostrar_saldo,Mostrar saldo,Cuentas,cuentas,Cuentas,,,,,May 2026,567,1452
+home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,May 2026,34,144
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,May 2026,2304,7559
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,May 2026,3230,13001
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,May 2026,3689,20752
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,May 2026,1384,20383
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,May 2026,711,962
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,May 2026,87,106
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,May 2026,79,92
+menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,May 2026,1452,3222
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,May 2026,1325,4864
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,May 2026,803,1531
+menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,May 2026,619,886
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,May 2026,1994,5294
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,May 2026,506,724
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,May 2026,100,810
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,May 2026,339,478
+menu,m_cerrar_sesion,Cerrar sesión,Menú,menu_otros,Otros,6.7,83.9,86.7,6.1,May 2026,2788,22228
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,May 2026,321,466
+home,banner_21,CUENTA REMUNERADA ✅,Recomendaciones,banners,Banners,,,,,May 2026,214,325
+home,banner_22,Así ahorrás tiempo 😉,Recomendaciones,banners,Banners,,,,,May 2026,75,93
+home,banner_23,Con Echeqs es más fácil 😉,Recomendaciones,banners,Banners,,,,,May 2026,22,38
+home,banner_24,Cobrá más fácil 📲,Recomendaciones,banners,Banners,,,,,May 2026,5,5
+home,banner_25,Potenciá el capital de tu PyME,Recomendaciones,banners,Banners,,,,,May 2026,3,3
+home,banner_16,Transferencias Masivas,Recomendaciones,banners,Banners,,,,,May 2026,1,1
+home,banner_26,"🗓️ Tus servicios, siempre al día",Recomendaciones,banners,Banners,,,,,May 2026,1,1
