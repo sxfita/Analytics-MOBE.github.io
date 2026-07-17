@@ -253,3 +253,38 @@ home,banner_24,Cobrá más fácil 📲,Recomendaciones,banners,Banners,,,,,May 2
 home,banner_25,Potenciá el capital de tu PyME,Recomendaciones,banners,Banners,,,,,May 2026,3,3
 home,banner_16,Transferencias Masivas,Recomendaciones,banners,Banners,,,,,May 2026,1,1
 home,banner_26,"🗓️ Tus servicios, siempre al día",Recomendaciones,banners,Banners,,,,,May 2026,1,1
+home,qa_transferir,Transferir dinero,Quick Access,qa,Quick Access,6.7,19.4,17.8,5.7,Jun 2026,5322,63731
+home,qa_token,Token,Quick Access,qa,Quick Access,52.8,19.4,17.8,5.7,Jun 2026,3092,18066
+home,qa_pagar,Pagar servicio,Quick Access,qa,Quick Access,29.6,19.4,17.8,5.7,Jun 2026,2427,9767
+home,qa_mas,Más opciones,Quick Access,qa,Quick Access,75.6,19.4,17.8,5.7,Jun 2026,3351,9644
+home,qa_echeq,Echeq (QA),Quick Access,qa,Quick Access,,,,,Jun 2026,852,3924
+home,qa_solicitar,Solicitar acuerdo,Quick Access,qa,Quick Access,,,,,Jun 2026,209,314
+home,nav_menu,Menú (Nav),Nav Bar,nav,Nav Bar,75,95.6,25,4.4,Jun 2026,6683,39552
+home,nav_aprobaciones,Aprobaciones (Nav),Nav Bar,nav,Nav Bar,50,95.6,25,4.4,Jun 2026,1532,3747
+home,nav_cuentas,Cuentas (Nav),Nav Bar,nav,Nav Bar,25,95.6,25,4.4,Jun 2026,1835,3167
+home,nav_inicio,Inicio (Nav),Nav Bar,nav,Nav Bar,0,95.6,25,4.4,Jun 2026,183,237
+home,cuenta_principal,Cuenta principal,Cuentas,cuentas,Cuentas,6.7,8.3,75.6,9.6,Jun 2026,3855,19279
+home,cuenta_secundaria,Cuenta secundaria,Cuentas,cuentas,Cuentas,,,,,Jun 2026,1077,4381
+home,aliascbu,Alias / CBU,Cuentas,cuentas,Cuentas,11.1,14.7,66.7,2.3,Jun 2026,1897,3578
+home,ocultar_saldo,Ocultar saldo,Cuentas,cuentas,Cuentas,80,8.8,8.3,2.2,Jun 2026,633,1737
+home,mostrar_saldo,Mostrar saldo,Cuentas,cuentas,Cuentas,,,,,Jun 2026,599,1667
+home,mas_cuentas,Más cuentas,Cuentas,cuentas,Cuentas,,,,,Jun 2026,27,135
+home,detalle_movimiento,Detalle de movimiento,Últimos movim.,movim,Últimos movim.,6.7,46.9,86.7,25.8,Jun 2026,2328,7463
+home,todos_movimientos,Ver todos los movimientos,Últimos movim.,movim,Últimos movim.,11.1,73.9,77.5,3.0,Jun 2026,3207,13568
+home,aprobaciones,Bandeja de aprobaciones,Aprobaciones,aprob,Aprobaciones,6.7,27.4,86.7,6.0,Jun 2026,3692,21227
+home,header_empresa,Seleccionar empresa,Header,header,Header,6.7,4.5,72,3.8,Jun 2026,1421,21557
+home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,79.4,86.7,5.0,Jun 2026,714,954
+home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Jun 2026,64,69
+home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Jun 2026,78,89
+menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Jun 2026,1521,3528
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Jun 2026,1283,5112
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Jun 2026,901,1635
+menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Jun 2026,621,967
+menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Jun 2026,2091,5571
+menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Jun 2026,551,796
+menu,m_cambiar_empresa,Cambiar empresa,Menú,menu_perfil,Perfil y seguridad,6.7,51.8,86.7,6.5,Jun 2026,103,814
+menu,m_atencion_virtual,Atención Virtual,Menú,menu_atencion,Atención al cliente,6.7,77.4,86.7,4.5,Jun 2026,294,410
+menu,m_cerrar_sesion,Cerrar sesión,Menú,menu_otros,Otros,6.7,83.9,86.7,6.1,Jun 2026,2848,23031
+home,recomendaciones,Recomendaciones,Recomendaciones,recos,Recomendaciones,6.7,37.0,86.7,6.8,Jun 2026,390,553
+home,banner_27,Activá tu token y prevení estafas,Recomendaciones,banners,Banners,,,,,Jun 2026,207,273
+home,banner_21,CUENTA REMUNERADA ✅,Recomendaciones,banners,Banners,,,,,Jun 2026,183,280
