@@ -124,16 +124,16 @@ menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Feb 2026,1225,2362
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Mar 2026,1157,2375
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Abr 2026,1182,2625
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Dic 2025,1276,3837
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Ene 2026,1347,4369
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Feb 2026,1363,4595
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Mar 2026,1374,4800
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Abr 2026,1370,4852
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Dic 2025,796,1492
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Ene 2026,846,1572
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Feb 2026,837,1590
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Mar 2026,886,1656
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Abr 2026,861,1521
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Dic 2025,1276,3837
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Ene 2026,1347,4369
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Feb 2026,1363,4595
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Mar 2026,1374,4800
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Abr 2026,1370,4852
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Dic 2025,796,1492
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Ene 2026,846,1572
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Feb 2026,837,1590
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Mar 2026,886,1656
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Abr 2026,861,1521
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Dic 2025,757,1363
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Ene 2026,757,1362
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Feb 2026,718,1149
@@ -237,8 +237,8 @@ home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo
 home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,May 2026,87,106
 home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,May 2026,79,92
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,May 2026,1452,3222
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,May 2026,1325,4864
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,May 2026,803,1531
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,May 2026,1325,4864
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,May 2026,803,1531
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,May 2026,619,886
 menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,May 2026,1994,5294
 menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,May 2026,506,724
@@ -277,8 +277,8 @@ home,tu_ejecutivo,Tu ejecutivo,Datos del ejecutivo,ejecutivo,Datos del ejecutivo
 home,copiar_telefono,Copiar teléfono,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,85.3,86.7,4.1,Jun 2026,64,69
 home,copiar_mail,Copiar mail,Datos del ejecutivo,ejecutivo,Datos del ejecutivo,6.7,89.9,86.7,3.8,Jun 2026,78,89
 menu,m_transferencia,Transferencia individual,Menú,menu_ops,Operaciones,6.7,19.7,86.7,6.5,Jun 2026,1521,3528
-menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Jun 2026,1283,5112
-menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Jun 2026,901,1635
+menu,m_echeq,Echeq,Menú,menu_ops,Operaciones,6.7,32.6,86.7,6.5,Jun 2026,1283,5112
+menu,m_pago_servicios,Pago de servicios,Menú,menu_ops,Operaciones,6.7,26.1,86.7,6.5,Jun 2026,901,1635
 menu,m_acuerdos,Acuerdos,Menú,menu_ops,Operaciones,6.7,39.1,86.7,4.1,Jun 2026,621,967
 menu,m_token,Token,Menú,menu_perfil,Perfil y seguridad,6.7,58.3,86.7,6.5,Jun 2026,2091,5571
 menu,m_seguridad,Seguridad,Menú,menu_perfil,Perfil y seguridad,6.7,64.7,86.7,6.5,Jun 2026,551,796
